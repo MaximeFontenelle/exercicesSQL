@@ -1,0 +1,2 @@
+# exercicesSQL
+POE exercices SQL
