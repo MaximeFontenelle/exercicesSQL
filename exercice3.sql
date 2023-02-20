@@ -1,7 +1,7 @@
-SELECT max(trafic) AS max_trafic
+SELECT station, max(trafic) AS max_trafic
 FROM '2021';
 
-SELECT min(trafic) AS min_trafic
+SELECT station, min(trafic) AS min_trafic
 FROM '2021';
 
 SELECT sum(trafic) AS total_trafic
@@ -51,7 +51,7 @@ SELECT *
 FROM '2021'
 WHERE city='Gagny';
 
-SELECT group_concat(station)
+SELECT "Station Ligne 14 : " || group_concat(station, ", ") AS "Stations Ligne 14"
 FROM '2021'
 WHERE connection_1=14
 OR connection_2=14
@@ -82,7 +82,7 @@ WHERE city != 'Paris';
 
 SELECT station
 FROM '2021'
-WHERE trafic BETWEEN 5000000 AND 100000000;
+WHERE trafic BETWEEN 5000000 AND 10000000;
 
 SELECT station 
 FROM '2021'
