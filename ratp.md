@@ -1,0 +1,1287 @@
+station
+
+max\_trafic
+
+GARE DU NORD
+
+34503097
+
+station
+
+min\_trafic
+
+EGLISE D'AUTEUIL
+
+124941
+
+total\_trafic
+
+1218522295
+
+paris\_district
+
+total\_stations
+
+12
+
+21
+
+16
+
+20
+
+15
+
+19
+
+13
+
+18
+
+17
+
+17
+
+11
+
+16
+
+19
+
+15
+
+8
+
+15
+
+14
+
+14
+
+9
+
+14
+
+18
+
+13
+
+10
+
+11
+
+20
+
+11
+
+7
+
+11
+
+6
+
+9
+
+1
+
+8
+
+5
+
+7
+
+3
+
+6
+
+4
+
+6
+
+2
+
+4
+
+1
+
+total\_stations
+
+371
+
+total\_stations\_RER
+
+66
+
+city
+
+station
+
+Bagnolet
+
+GALLIENI
+
+Bobigny
+
+BOBIGNY-PABLO PICASSO
+
+Montreuil
+
+MAIRIE DE MONTREUIL
+
+Montreuil
+
+CROIX DE CHAVAUX
+
+Montreuil
+
+ROBESPIERRE
+
+Pantin
+
+BOBIGNY-PANTIN-RAYMOND QUENEAU
+
+Pantin
+
+HOCHE
+
+Pantin
+
+EGLISE DE PANTIN
+
+Saint Denis
+
+BASILIQUE DE SAINT-DENIS
+
+Saint Denis
+
+SAINT-DENIS-PORTE DE PARIS
+
+Saint Denis
+
+SAINT-DENIS-UNIVERSITE
+
+Saint Denis
+
+CARREFOUR PLEYEL
+
+id
+
+network
+
+station
+
+trafic
+
+connection\_1
+
+connection\_2
+
+connection\_3
+
+connection\_4
+
+connection\_5
+
+city
+
+paris\_district
+
+109
+
+Métro
+
+BERAULT
+
+2106827
+
+1
+
+Vincennes
+
+226
+
+RER
+
+VINCENNES
+
+5523693
+
+A
+
+Vincennes
+
+317
+
+Métro
+
+CHATEAU DE VINCENNES
+
+3617738
+
+1
+
+Vincennes
+
+station
+
+PORTE MAILLOT
+
+PORTE DOREE
+
+PORTE DES LILAS
+
+PORTE DE VINCENNES
+
+PORTE DE VERSAILLES
+
+PORTE DE VANVES
+
+PORTE DE SAINT-OUEN
+
+PORTE DE SAINT-CLOUD
+
+PORTE DE PANTIN
+
+PORTE DE MONTREUIL
+
+PORTE DE LA VILLETTE
+
+PORTE DE LA CHAPELLE
+
+PORTE DE CLIGNANCOURT
+
+PORTE DE CLICHY
+
+PORTE DE CHOISY
+
+PORTE DE CHARENTON
+
+PORTE DE CHAMPERRET
+
+PORTE DE BAGNOLET
+
+PORTE DAUPHINE
+
+PORTE D'ORLEANS
+
+PORTE D'IVRY
+
+PORTE D'ITALIE
+
+PORTE D'AUTEUIL
+
+station
+
+city
+
+FONTAINE-MICHALON
+
+Antony
+
+ARCUEIL-CACHAN
+
+Arcueil
+
+AUBERVILLIERS-PANTIN-QUATRE CHEMINS
+
+Aubervilliers
+
+BOBIGNY-PABLO PICASSO
+
+Bobigny
+
+BOISSY-SAINT-LEGER
+
+Boissy-Saint-Léger
+
+BOULOGNE-JEAN JAURES
+
+Boulogne Billancourt
+
+BOULOGNE-PONT DE SAINT-CLOUD
+
+Boulogne Billancourt
+
+BOURG-LA-REINE
+
+Bourg la Reine
+
+BRY-SUR-MARNE
+
+Bry-sur-Marne
+
+BURES-SUR-YVETTE
+
+Bures sur Yvette
+
+BUSSY-SAINT-GEORGES
+
+Bussy-Saint-Georges
+
+NOISY-CHAMPS
+
+Champs-sur-Marne
+
+CHARENTON-ECOLES
+
+Charenton
+
+CHATILLON-MONTROUGE
+
+Chatillon
+
+CHATOU-CROISSY
+
+Chatou
+
+CRETEIL-L'ECHAT
+
+Créteil
+
+CRETEIL-POINTE DU LAC
+
+Créteil
+
+CRETEIL-PREFECTURE
+
+Créteil
+
+CRETEIL-UNIVERSITE
+
+Créteil
+
+FONTENAY-AUX-ROSES
+
+Fontenay aux roses
+
+FONTENAY-SOUS-BOIS
+
+Fontenay-sous-Bois
+
+COURCELLE-SUR-YVETTE
+
+Gif sur Yvette
+
+GIF-SUR-YVETTE
+
+Gif sur Yvette
+
+JOINVILLE-LE-PONT
+
+Joinville-le-Pont
+
+LE KREMLIN-BICETRE
+
+Kremlin-Bicêtre
+
+LA COURNEUVE-8 MAI 1945
+
+La Courneuve
+
+LE VESINET-CENTRE
+
+Le Vésinet
+
+LE VESINET-LE PECQ
+
+Le Vésinet
+
+PONT DE LEVALLOIS-BECON
+
+Levallois-Perret
+
+ECOLE VETERINAIRE DE MAISONS-ALFORT
+
+Maisons -Alfort
+
+MAISONS-ALFORT-LES JUILLIOTTES
+
+Maisons -Alfort
+
+MAISONS-ALFORT-STADE
+
+Maisons -Alfort
+
+MALAKOFF-PLATEAU DE VANVES
+
+Malakoff
+
+MALAKOFF-RUE ETIENNE DOLET
+
+Malakoff
+
+MASSY-PALAISEAU
+
+Massy
+
+MASSY-VERRIERES
+
+Massy
+
+MARNE-LA-VALLEE-CHESSY
+
+Montévrain
+
+NANTERRE-PREFECTURE
+
+Nanterre
+
+NANTERRE-UNIVERSITE
+
+Nanterre
+
+NANTERRE-VILLE
+
+Nanterre
+
+NEUILLY-PLAISANCE
+
+Neuilly-sur-Seine
+
+NOGENT-SUR-MARNE
+
+Nogent-sur-Marne
+
+NOISY-LE-GRAND-MONT D'EST
+
+Noisy-le-Grand
+
+ORSAY-VILLE
+
+Orsay
+
+PALAISEAU-VILLEBON
+
+Palaiseau
+
+BOBIGNY-PANTIN-RAYMOND QUENEAU
+
+Pantin
+
+ALMA-MARCEAU
+
+Paris
+
+BARBES-ROCHECHOUART
+
+Paris
+
+BIR-HAKEIM
+
+Paris
+
+BREGUET-SABIN
+
+Paris
+
+BUTTES-CHAUMONT
+
+Paris
+
+CAMPO-FORMIO
+
+Paris
+
+CENSIER-DAUBENTON
+
+Paris
+
+CHAMPS-ELYSEES-CLEMENCEAU
+
+Paris
+
+CHARDON-LAGACHE
+
+Paris
+
+CHARLES DE GAULLE-ETOILE
+
+Paris
+
+CHARLES DE GAULLE-ETOILE-RER
+
+Paris
+
+CHATEAU-LANDON
+
+Paris
+
+CHATELET-LES HALLES-RER
+
+Paris
+
+CHAUSSEE D'ANTIN-LA FAYETTE
+
+Paris
+
+COUR SAINT-EMILION
+
+Paris
+
+DENFERT-ROCHEREAU
+
+Paris
+
+DENFERT-ROCHEREAU-RER
+
+Paris
+
+FAIDHERBE-CHALIGNY
+
+Paris
+
+GARE DE LYON-RER
+
+Paris
+
+GARE DU NORD-RER
+
+Paris
+
+HAVRE-CAUMARTIN
+
+Paris
+
+JAVEL-ANDRE CITROEN
+
+Paris
+
+LA MOTTE-PICQUET-GRENELLE
+
+Paris
+
+LA TOUR-MAUBOURG
+
+Paris
+
+LAMARCK-CAULAINCOURT
+
+Paris
+
+LEDRU-ROLLIN
+
+Paris
+
+MARCADET-POISSONNIERS
+
+Paris
+
+MAUBERT-MUTUALITE
+
+Paris
+
+MICHEL-ANGE-AUTEUIL
+
+Paris
+
+MICHEL-ANGE-MOLITOR
+
+Paris
+
+MONTPARNASSE-BIENVENUE
+
+Paris
+
+MOUTON-DUVERNET
+
+Paris
+
+NATION-RER
+
+Paris
+
+NOTRE-DAME-DE-LORETTE
+
+Paris
+
+NOTRE-DAME-DES-CHAMPS
+
+Paris
+
+PALAIS-ROYAL
+
+Paris
+
+PORTE DE SAINT-CLOUD
+
+Paris
+
+PORTE DE SAINT-OUEN
+
+Paris
+
+PRE-SAINT-GERVAIS
+
+Paris
+
+QUATRE-SEPTEMBRE
+
+Paris
+
+REAUMUR-SEBASTOPOL
+
+Paris
+
+REUILLY-DIDEROT
+
+Paris
+
+RICHELIEU-DROUOT
+
+Paris
+
+SAINT-AMBROISE
+
+Paris
+
+SAINT-AUGUSTIN
+
+Paris
+
+SAINT-FARGEAU
+
+Paris
+
+SAINT-FRANCOIS-XAVIER
+
+Paris
+
+SAINT-GEORGES
+
+Paris
+
+SAINT-GERMAIN DES PRES
+
+Paris
+
+SAINT-JACQUES
+
+Paris
+
+SAINT-LAZARE
+
+Paris
+
+SAINT-MARCEL
+
+Paris
+
+SAINT-MAUR
+
+Paris
+
+SAINT-MICHEL
+
+Paris
+
+SAINT-MICHEL-NOTRE-DAME
+
+Paris
+
+SAINT-PAUL
+
+Paris
+
+SAINT-PHILIPPE-DU-ROULE
+
+Paris
+
+SAINT-PLACIDE
+
+Paris
+
+SAINT-SEBASTIEN-FROISSART
+
+Paris
+
+SAINT-SULPICE
+
+Paris
+
+SEVRES-BABYLONE
+
+Paris
+
+SEVRES-LECOURBE
+
+Paris
+
+STRASBOURG-SAINT-DENIS
+
+Paris
+
+SULLY-MORLAND
+
+Paris
+
+TRINITE-D'ESTIENNE D'ORVES
+
+Paris
+
+LA DEFENSE-RER
+
+Puteaux
+
+RUEIL-MALMAISON
+
+Rueil-Malmaison
+
+BASILIQUE DE SAINT-DENIS
+
+Saint Denis
+
+SAINT-DENIS-PORTE DE PARIS
+
+Saint Denis
+
+SAINT-DENIS-UNIVERSITE
+
+Saint Denis
+
+SAINT-MANDE-TOURELLE
+
+Saint Mandé
+
+MAIRIE DE SAINT-OUEN
+
+Saint Ouen
+
+SAINT-GERMAIN-EN-LAYE
+
+Saint-Germain-en-Laye
+
+LE PARC DE SAINT-MAUR
+
+Saint-Maur des Fossés
+
+SAINT-MAUR-CRETEIL
+
+Saint-Maur des Fossés
+
+CLICHY SAINT-OUEN
+
+Saint-ouen
+
+SAINT-REMY-LES-CHEVREUSE
+
+St-Rémy-Lès-Chevreuse
+
+SUCY-BONNEUIL
+
+Sucy-en-Brie
+
+VILLEJUIF-LEO LAGRANGE
+
+Villejuif
+
+VILLEJUIF-LOUIS ARAGON
+
+Villejuif
+
+VILLEJUIF-PAUL VAILLANT-COUTURIER
+
+Villejuif
+
+LA VARENNE-CHENNEVIERES
+
+saint-Maur des Fossés
+
+station
+
+CHATELET-LES HALLES-RER
+
+LA DEFENSE-RER
+
+NOISY-LE-GRAND-MONT D'EST
+
+NATION-RER
+
+NANTERRE-UNIVERSITE
+
+MARNE-LA-VALLEE-CHESSY
+
+CHATOU-CROISSY
+
+LOGNES
+
+NANTERRE-PREFECTURE
+
+AUBER
+
+CHARLES DE GAULLE-ETOILE-RER
+
+TORCY
+
+SAINT-MAUR-CRETEIL
+
+BUSSY-SAINT-GEORGES
+
+FONTENAY-SOUS-BOIS
+
+SUCY-BONNEUIL
+
+VAL DE FONTENAY
+
+VINCENNES
+
+VAL D'EUROPE
+
+SAINT-GERMAIN-EN-LAYE
+
+CHAMPIGNY
+
+NOISIEL
+
+BRY-SUR-MARNE
+
+LA VARENNE-CHENNEVIERES
+
+LE VESINET-LE PECQ
+
+GARE DE LYON
+
+NOISY-CHAMPS
+
+RUEIL-MALMAISON
+
+NANTERRE-VILLE
+
+BOISSY-SAINT-LEGER
+
+LE VESINET-CENTRE
+
+GARE DE LYON-RER
+
+NEUILLY-PLAISANCE
+
+JOINVILLE-LE-PONT
+
+NOGENT-SUR-MARNE
+
+LE PARC DE SAINT-MAUR
+
+Stations Ligne 14
+
+Station Ligne 14 : SAINT-LAZARE, MAIRIE DE SAINT-OUEN, PONT CARDINET, PYRAMIDES, CLICHY SAINT-OUEN, BIBLIOTHEQUE, CHATELET, OLYMPIADES, GARE DE LYON, BERCY, MADELEINE, PORTE DE CLICHY, COUR SAINT-EMILION
+
+station
+
+trafic
+
+GARE DE LYON
+
+28640475
+
+LA DEFENSE
+
+9256802
+
+CHATELET
+
+8350794
+
+BASTILLE
+
+8069243
+
+HOTEL DE VILLE
+
+7251729
+
+station
+
+avg\_trafic
+
+BIBLIOTHEQUE
+
+11104474.0
+
+CAMPO-FORMIO
+
+1016150.0
+
+CHEVALERET
+
+2748696.0
+
+CORVISART
+
+1570331.0
+
+GARE D'AUSTERLITZ
+
+6318543.0
+
+GLACIERE
+
+3005750.0
+
+LES GOBELINS
+
+2365942.0
+
+MAISON BLANCHE
+
+1203631.0
+
+NATIONALE
+
+1320290.0
+
+OLYMPIADES
+
+5214595.0
+
+PLACE D'ITALIE
+
+7119097.0
+
+PORTE D'ITALIE
+
+1507152.0
+
+PORTE D'IVRY
+
+1282199.0
+
+PORTE DE CHOISY
+
+1592144.0
+
+QUAI DE LA GARE
+
+1735465.0
+
+SAINT-JACQUES
+
+1407837.0
+
+SAINT-MARCEL
+
+1666744.0
+
+TOLBIAC
+
+2287918.0
+
+city
+
+Puteaux
+
+Villejuif
+
+Saint Denis
+
+Créteil
+
+Aubervilliers
+
+Les Lilas
+
+Boulogne Billancourt
+
+Levallois-Perret
+
+Malakoff
+
+Boulogne Billancourt
+
+Asnières sur Seine
+
+Puteaux
+
+Massy
+
+Noisy-le-Grand
+
+Bourg la Reine
+
+Nanterre
+
+Montévrain
+
+Antony
+
+Antony
+
+Sceaux
+
+Chatou
+
+Lognes
+
+St-Rémy-Lès-Chevreuse
+
+sceaux
+
+Palaiseau
+
+Bures sur Yvette
+
+Montreuil
+
+Chatillon
+
+Saint Ouen
+
+Clichy
+
+Boulogne Billancourt
+
+Saint-ouen
+
+Levallois-Perret
+
+Kremlin-Bicêtre
+
+Issy Les Moulineaux
+
+Levallois-Perret
+
+Vincennes
+
+Ivry
+
+Boulogne Billancourt
+
+Saint Ouen
+
+Villejuif
+
+Charenton
+
+Malakoff
+
+Nanterre
+
+Antony
+
+Torcy
+
+Saint-Maur des Fossés
+
+Arcueil
+
+Bussy-Saint-Georges
+
+Fontenay-sous-Bois
+
+Sucy-en-Brie
+
+Orsay
+
+Antony
+
+Bures sur Yvette
+
+Bobigny
+
+Aubervilliers
+
+La Courneuve
+
+Neuilly Sur Seine
+
+Puteaux
+
+Neuilly Sur Seine
+
+Asnières
+
+Montreuil
+
+Saint Denis
+
+Montreuil
+
+Pantin
+
+Créteil
+
+Saint Denis / Aubervilliers
+
+Fontenay-sous-Bois
+
+Vincennes
+
+Serris
+
+Saint-Germain-en-Laye
+
+Saint-Maur des Fossés
+
+Arcueil
+
+Noisiel
+
+Bry-sur-Marne
+
+Orsay
+
+saint-Maur des Fossés
+
+Gentilly
+
+Le Vésinet
+
+Gif sur Yvette
+
+Massy
+
+Saint Mandé
+
+Pantin
+
+Saint Denis
+
+Asnières sur Seine
+
+Charenton
+
+Maisons -Alfort
+
+Créteil
+
+Maisons -Alfort
+
+Champs-sur-Marne
+
+Rueil-Malmaison
+
+Nanterre
+
+Boissy-Saint-Léger
+
+Le Vésinet
+
+Fontenay aux roses
+
+Palaiseau
+
+Gif sur Yvette
+
+Montrouge
+
+Bagnolet
+
+Vincennes
+
+Boulogne Billancourt
+
+Issy Les Moulineaux
+
+Pantin
+
+Créteil
+
+Maisons -Alfort
+
+Villejuif
+
+Saint Denis
+
+Ivry
+
+Neuilly-sur-Seine
+
+Joinville-le-Pont
+
+Nogent-sur-Marne
+
+Cachan
+
+Saint-Maur des Fossés
+
+Palaiseau
+
+Antony
+
+station
+
+LA DEFENSE
+
+HOTEL DE VILLE
+
+VILLEJUIF-LOUIS ARAGON
+
+MASSY-PALAISEAU
+
+NOISY-LE-GRAND-MONT D'EST
+
+CITE UNIVERSITAIRE
+
+BASTILLE
+
+FRANKLIN D. ROOSEVELT
+
+MAIRIE DE MONTREUIL
+
+NATION
+
+BARBES-ROCHECHOUART
+
+CHATILLON-MONTROUGE
+
+AUBER
+
+CHATELET
+
+BOBIGNY-PABLO PICASSO
+
+GARE D'AUSTERLITZ
+
+HAVRE-CAUMARTIN
+
+AUBERVILLIERS-PANTIN-QUATRE CHEMINS
+
+TROCADERO
+
+OLYMPIADES
+
+VINCENNES
+
+BELLEVILLE
+
+OPERA
+
+PLACE D'ITALIE
+
+STRASBOURG-SAINT-DENIS
+
+CHATEAU ROUGE
+
+PORTE DE CLIGNANCOURT
+
+PORTE DE VINCENNES
+
+MADELEINE
+
+PORTE DE CLICHY
+
+PLACE CLICHY
+
+LA MOTTE-PICQUET-GRENELLE
+
+station
+
+HOTEL DE VILLE
+
+VILLEJUIF-LOUIS ARAGON
+
+PORTE DE LA VILLETTE
+
+VILLEJUIF-PAUL VAILLANT-COUTURIER
+
+ORSAY-VILLE
+
+BELLEVILLE
+
+NANTERRE-VILLE
+
+PALAISEAU-VILLEBON
+
+VILLEJUIF-LEO LAGRANGE
+
+PONT MARIE
+
+JOINVILLE-LE-PONT
