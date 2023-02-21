@@ -1,25 +1,33 @@
-select max(trafic)
+/* Q1 */
+select station, max(trafic)
 from `2021`;
 
+/* Q2 */
 select min(trafic)
 from `2021`;
 
+/* Q3 */
 select sum(trafic)
 from `2021`;
 
+/* Q4 */
 select paris_district, count(station) as nb_stations
 from `2021`
 where city = 'Paris'
 group by paris_district
 order by nb_stations DESC;
 
+/* Q5 */
 select count(station) as nb_stations
-from `2021`;
+from `2021`
+where network = 'Métro';
 
+/* Q6 */
 select count(station) as nb_stations
 from `2021`
 where network = 'RER';
 
+/* Q7 */
 select city, station 
 from `2021`
 where city in ('Bobigny', 'La Courneuve', 'Saint Denis', 'Pantin', 'Montreuil', 'Bagnolet')
